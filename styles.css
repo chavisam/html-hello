@@ -1,0 +1,50 @@
+*{margin:0;
+padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: lightgrey;
+    max-width: 80%;
+    margin: auto;
+    height: 100%;
+
+}
+
+h1{
+    text-align: center;
+
+}
+
+.pages , h3{
+   
+    display:inline;
+}
+
+.pages{
+    float:right;
+    color:lightgray
+}
+
+.header{
+    background-color: white;
+}
+
+.body{  
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+}
+
+img{
+    width: 100%;
+}
+
+.title , .footer{
+    padding: 10px;
+}
